@@ -1,0 +1,25 @@
+{
+  "name": "request-demo",
+  "version": "0.0.0",
+  "description": "0.0.1",
+  "main": "app.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "github"
+  },
+  "keywords": [
+    "request",
+    "utf8",
+    "compress"
+  ],
+  "author": "BiteBit",
+  "license": "MIT",
+  "dependencies": {
+    "charset": "^1.0.0",
+    "jschardet": "^1.3.0",
+    "lodash": "^3.10.1",
+    "request": "^2.61.0"
+  }
+}
